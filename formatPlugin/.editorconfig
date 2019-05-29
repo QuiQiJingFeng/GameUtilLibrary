@@ -1,0 +1,8 @@
+root = true
+
+[*.lua]
+charset = utf-8                  #文件格式utf-8
+indent_style = space
+indent_size = 4                  #tab键等于4个空格
+insert_final_newline = true      #最后一行多加一行
+trim_trailing_whitespace = true  #去除多余的空格键
